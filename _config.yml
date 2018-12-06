@@ -18,7 +18,7 @@ description: A website that i kinda made
 baseurl: ""
 url: gc4004.github.io
 github_repo: jekyll # the GitHub repo name for your project
-github_username:gc40045
+github_username: gc40045
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
