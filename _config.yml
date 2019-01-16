@@ -16,7 +16,7 @@
 title: My website
 description: A website that i kinda made
 baseurl: ""
-url: gc4004.github.io
+url: "gc4004.github.io"
 github_repo: jekyll # the GitHub repo name for your project
 github_username: gc40045
 # Optional social link, you can choose from the following options:
